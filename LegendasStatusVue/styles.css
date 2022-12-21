@@ -1,0 +1,112 @@
+
+.txt-color-agaprovacao {
+    color:rosybrown;
+}
+
+.txt-color-aceito {
+    color:green;
+}
+
+.txt-color-rejeitado {
+    color:#ea062e;
+}
+
+.txt-color-agpagamento {
+    color:#57889c;
+}
+
+.txt-color-cancelado{
+    color:#808080;
+}
+
+.txt-color-concretizado {
+    color:lightgreen;
+}
+
+.txt-color-pendente {
+    color: #8B0000;
+}
+
+.txt-color-agemissao {
+    color: lightgreen;
+}
+
+.txt-color-agenvio {
+    color: #0000CD;
+}
+
+.txt-color-emitida {
+    color: #00FFFF;
+}
+
+.txt-color-quitado {
+    color:#00ffff;
+}
+
+.txt-color-aggeracaoaditivo {
+    color: #20B2AA;
+}
+
+.txt-color-aberto {
+    color:#0B615E;
+}
+
+.txt-color-escriturado {
+    color:#0066ff;
+}
+
+.txt-color-bloqueado {
+    color:#8B4513;
+}
+
+.txt-color-fechado {
+    color:#333;
+}
+
+.txt-color-emnegociacao {
+    color:#4682B4;
+}
+
+.txt-color-devolvido {
+    color:#8A0808;
+}
+
+.txt-color-criado {
+    color:#ddff00;
+}
+.txt-color-entradatitulo {
+    color:#082bcf;
+}
+.txt-color-baixatitulo {
+    color:#ff7500;
+}
+.txt-color-apagado {
+    color:#ddff00;
+}
+
+.txt-color-liquidacaotitulo {
+    color:#00ff44;
+}
+
+.txt-color-baixaautomatica {
+    color:#00fff7;
+}
+.txt-color-apagadosemregistro {
+    color:#ea062e;
+}
+
+.txt-color-criadosemregistro {
+    color:#8B4513;
+}
+
+.txt-color-agliberacao{
+    color: #00e6e6;
+}
+
+.txt-color-agassinatura {
+    color: #808080;
+}
+
+.txt-color-agvalidacao{
+    color: #FFA500;
+}
