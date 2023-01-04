@@ -1,3 +1,4 @@
+// transforma uma string em int ou float
 
 var num = "10";
 var convertido = parseInt(num);

@@ -6,6 +6,11 @@ var texto = "Olá eu sou o Caio fortes, gosto de ser Caio fortes, Caio fortes é
 var novoTexto = texto.replace(/'Caio', 'fortes'/gi, "Eduardo");
 console.log(novoTexto);
 
+//tirando todos valores não numéricos
+const x = "A1cd#2AR3"
+const somenteNumeros = x.replace(/\D/g,'');
+console.log(somenteNumeros); // 123
+
 //mudando a ordenação
 var expressao = /(\w+)\s(\w+)\s(\w+)/;
  //o ponto de separação entre elas é o caractere de espaço representado pelo \s.
