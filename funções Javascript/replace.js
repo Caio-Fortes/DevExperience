@@ -28,4 +28,5 @@ var adicionarStringAntes = 'Vamos estudar Script';
 var stringAntes = adicionarStringAntes.replace('Script','Java$&');
 console.log(stringAntes);
 
+
 //para aprender mais: https://blog.betrybe.com/javascript/javascript-replace/
