@@ -1,0 +1,42 @@
+
+############ link Apostila Vue 2 ############
+https://docs.google.com/document/d/1PGOsJBrekk_TxUj8Qk3I50NpZKQVpf04KxNJWzn9fUU/edit?usp=sharing
+
+
+
+############ HTML ############
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>v-model</title>
+    </head>
+    <body>
+        <div id="app">
+            <my-vue-component />
+        </div>
+    </body>
+</html>
+
+<script src="C:\Users\Ciroc\Desktop\DevExperience\DevExperience\pluguins\Vue\Vue2\vue.js"></script>
+<script src="index.js"></script>
+
+<script>
+    new Vue({ el: '#app'})
+</script>
+
+
+
+############ JAVASCRIPT ############
+Vue.component('my-vue-component', {
+    data() {
+        return {
+            hello: 'olá vue'
+        }
+    },
+
+    template: `
+    <div>
+        {{hello}}
+    </div>
+    `
+})
