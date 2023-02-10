@@ -6,7 +6,7 @@ const index = names. indexOf("Pedro");
 
 if (index !== -1) {
     names[index] = "Josias";
-    console.log(names) // ["Matheus", "Josias", "Pedro"]
+    console.log(names) // ["Matheus", "João", "Josias"]
 }
 
 //utilizando numeros 
@@ -16,3 +16,7 @@ if (index2 !== -1) {
     names2[index2] = "10";
     console.log(names2) 
 }
+
+const frase = "O rato roeu a roupa do rei de Roma";
+console.log(frase.indexOf("rei")); // 23
+console.log(frase.indexOf("teste")); // -1

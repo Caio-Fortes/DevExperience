@@ -30,3 +30,8 @@ console.log(stringAntes);
 
 
 //para aprender mais: https://blog.betrybe.com/javascript/javascript-replace/
+
+
+var teste = '[1],[2],[3]'
+var novo = teste.replace(/,/g, "")
+console.log(novo)
